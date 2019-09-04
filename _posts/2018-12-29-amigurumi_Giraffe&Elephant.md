@@ -3,7 +3,7 @@ layout: post
 title: Giraffe & Elephant
 date: 2019-01-12
 description: You’ll find this post in your `_posts` directory. # Add post description (optional)
-img: IMG_2571.JPG # Add image post (optional)
+img: 아미주말초급/IMG_2571.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Giraffe, Elephant, Crochet]
 ---

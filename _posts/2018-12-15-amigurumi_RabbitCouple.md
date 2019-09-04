@@ -3,7 +3,7 @@ layout: post
 title: Rabbit Couple
 date: 2018-12-15
 description: You’ll find this post in your `_posts` directory. # Add post description (optional)
-img: IMG_9337.JPG # Add image post (optional)
+img: 아미주말초급/IMG_9337.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Rabbit Couple, Crochet]
 ---

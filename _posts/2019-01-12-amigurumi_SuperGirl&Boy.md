@@ -3,7 +3,7 @@ layout: post
 title: Super Girl Dalkomssi & Boy Dalbong
 date: 2019-01-12
 description: You’ll find this post in your `_posts` directory. # Add post description (optional)
-img: IMG_2572.JPG # Add image post (optional)
+img: 아미주말초급/IMG_2572.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Super Girl & Boy, Crochet]
 ---
