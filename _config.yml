@@ -6,6 +6,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "knittinglove.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #site-twitter: #if your site has a twitter account, enter it here
 
+# Navigation links
+nav:
+  home: '/'
+  tags: '/tags.html'
+
+# Search
+search: true
+  
 # Author Settings
 author: aromiSu # add your name
 author-img: Lee-Su-Hyun.jpg # add your photo
@@ -30,7 +38,7 @@ plugins:
   - jemoji
   - jekyll-feed
 
-paginate: 8
+paginate: 5
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
