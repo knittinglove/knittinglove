@@ -9,7 +9,7 @@ tags: [Amigurumi, Crochet, Maggie_the_Owl_Pillow]
 ---
 
 
->도안정보 : JOsCrocheteria
+>도안정보 : Designed by JO's Crocheteria
 >
 > 실 정보 : (끌림 실)
    라이트베이지, 카키, 블루, 레드, 머스타드
@@ -27,5 +27,7 @@ tags: [Amigurumi, Crochet, Maggie_the_Owl_Pillow]
 ## 조립도
 
 
-### Lesson Learned
+## Lesson Learned
 영문 도안 보기
+
+## 동영상

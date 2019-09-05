@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Rabbit Couple, Crochet]
 ---
 
-> 도안정보 : 끌림 김은영(보리음료)
+> 도안정보 : Designed by 끌림 김은영(보리음료)
 >
 > 실 정보 : 끌림 실
 >   여자토끼 - 화이트, 레드, 핑크
@@ -28,3 +28,5 @@ tags: [Amigurumi, Rabbit Couple, Crochet]
 ## 조립도
 
 ## Lesson Learned
+
+## 동영상

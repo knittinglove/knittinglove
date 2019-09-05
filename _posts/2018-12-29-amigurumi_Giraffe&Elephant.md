@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Giraffe, Elephant, Crochet]
 ---
 
-> 도안정보 : J. A. Poolvos
+> 도안정보 : Designed by J. A. Poolvos
 >
 > 실 정보 : 끌림 - 파스텔 민트, 머스타드, 라이크카키
 >
@@ -25,3 +25,5 @@ tags: [Amigurumi, Giraffe, Elephant, Crochet]
 
 ## Lesson Learned
 * 도안구매하기 : http://www.ravelry.com/patterns/library/tall-giraffe
+
+## 동영상

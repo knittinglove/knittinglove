@@ -9,7 +9,7 @@ tags: [Amigurumi, Super Girl & Boy, Crochet]
 ---
 
 
->도안정보 : 끌림 박상숙(올리브양)
+>도안정보 : Designed by 끌림 박상숙(올리브양)
 >
 > 실 정보 : 끌림 실
    슈퍼걸/슈퍼보이 - 라이트베이지, 카키, 블루, 레드, 머스타드
@@ -27,5 +27,7 @@ tags: [Amigurumi, Super Girl & Boy, Crochet]
 * 망사레이스 치마 만들기
 * 와이어 안경 만들기
 
-### Lesson Learned
+## Lesson Learned
 영문 도안 보기
+
+## 동영상
