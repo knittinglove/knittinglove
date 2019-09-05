@@ -3,7 +3,7 @@ layout: post
 title: amigurumi_Maggie_the_Owl_Pillow
 date: 2019-02-16
 description: You’ll find this post in your `_posts` directory. # Add post description (optional)
-img: 아미주말초급/IMG_1223.JPG # Add image post (optional)
+img: 아미주말중급/IMG_1223.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Crochet, Maggie_the_Owl_Pillow]
 ---
