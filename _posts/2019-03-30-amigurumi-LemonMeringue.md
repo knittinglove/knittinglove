@@ -9,7 +9,7 @@ tags: [Amigurumi, Crochet, LemonMeringue]
 ---
 
 
->도안정보 : Designed by 
+>도안정보 : Designed by Anna Sadovskaya
 >
 > 실 정보 : (끌림 실) 아이보리, 브라운, 그린, 오렌지, 골드옐로, 라이트스카이
 >
