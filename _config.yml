@@ -22,7 +22,7 @@ social-email: lifetree74@gmail.com # add your Email address
 discus-identifier: knittinglove # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-147159124-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
