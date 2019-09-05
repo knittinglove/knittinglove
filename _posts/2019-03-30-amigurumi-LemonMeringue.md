@@ -3,7 +3,7 @@ layout: post
 title: amigurumi_LemonMeringue
 date: 2019-03-30
 description: You’ll find this post in your `_posts` directory. # Add post description (optional)
-img: 아미주말중급/IMG_2562.JPG # Add image post (optional)
+img: 아미주말고급/IMG_2562.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Amigurumi, Crochet, LemonMeringue]
 ---
